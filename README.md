@@ -1,6 +1,3 @@
-Sure! Here’s a README file for your project based on the content you’re working on. This README assumes the project is about analyzing election data:
-
----
 
 # Election Data Analysis
 
